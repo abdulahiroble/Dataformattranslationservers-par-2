@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<me>
+    <name>Abdulahi</name>
+    <age>25</age>
+    <hobbies>
+        <hobby>Manga</hobby>
+        <hobby>Anime</hobby>
+    </hobbies>
+</me>
